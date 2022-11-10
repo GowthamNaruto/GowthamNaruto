@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gowtham Selvam</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working in **ChainScript.dev**
+- 🔭 I’m currently working at **ChainScript.dev**
 
-- 🌱 I’m currently learning **Blockchain, Kubernetes, Flutter, and Networking**
+- 🌱 I’m currently learning **Blockchain, Kubernetes, Flutter, NextJs, Cloud and Networking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GowthamNaruto](https://github.com/GowthamNaruto)
 
