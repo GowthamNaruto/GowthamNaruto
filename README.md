@@ -7,15 +7,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GowthamNaruto](https://github.com/GowthamNaruto)
 
-- 💬 Ask me about **MERN-stack, svelte, Blockchain,Docker, Kubernetes, Cloud function, firebase, Networking, and design**
+- 💬 Ask me about **MERN-stack, svelte, Blockchain, Docker, Kubernetes, Cloud function, firebase, Networking, and design**
 
 - 📫 How to reach me **gowthamgoutam@gmail.com**
 
-- ⚡ Fun fact **I watch more anime especially "Naruto"**
+- ⚡ Fun fact **I like to watch anime, and one of my favourites is "Naruto."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_itsgowtham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_itsgowtham" height="30" width="40" /></a>
+<a href="https://twitter.com/gowtham2999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_itsgowtham" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gowtham-selvam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gowtham-selvam" height="30" width="40" /></a>
 <a href="https://instagram.com/gowtham_uchiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gowtham_uchiha" height="30" width="40" /></a>
 <a href="https://www.behance.net/gowthamselvam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gowthamselvam1" height="30" width="40" /></a>
